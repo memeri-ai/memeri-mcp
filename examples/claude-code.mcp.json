@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "memeri": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["./proxy/mcp-reconnect-proxy.js"],
+      "env": {
+        "MCP_REMOTE_BASE": "https://<your-gateway>",
+        "MCP_AUTH": "Bearer <your token>"
+      }
+    }
+  }
+}
