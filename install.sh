@@ -33,7 +33,7 @@ BANNER='
 
 # ── Config ────────────────────────────────────────────────────────────
 PLATFORM_URL="${MEMERI_PLATFORM_URL:-https://memeri.ai}"
-GATEWAY_URL="${MEMERI_GATEWAY_URL:-https://codebridge-gateway-ad33.up.railway.app}"
+GATEWAY_URL="${MEMERI_GATEWAY_URL:-https://mcp.memeri.ai}"
 MCP_URL="${GATEWAY_URL}/mcp"
 CLAUDE_DIR="$HOME/.claude"
 MEMERI_CONFIG="$CLAUDE_DIR/memeri.json"
