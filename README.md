@@ -1,6 +1,6 @@
 # memeri-mcp
 
-**Memeri gives ChatGPT, Claude Code, and Codex shared project memory.**
+**Memeri gives Claude, Claude Code, ChatGPT and Codex shared project memory.**
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 ![Status: early access](https://img.shields.io/badge/status-early%20access-34d399)
